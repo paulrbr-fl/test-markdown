@@ -6,6 +6,13 @@ hello
 
 [kljsdf](he)
 
+```ruby
+def method(param)
+  param || false
+end
+```
+    qdf	
+
 kj
 
 !!! success ""
@@ -17,6 +24,17 @@ $LaTeX$ is cool: $n^2$ right?
 |-----|-----|
 | yo | wo |
 
+|eoofdkjsd 	f|rer  |
+|--|--|
+| er
+
+ - [ ] z
+ - [x] z
+ - [ ] List item
+
+ | re |
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMDI1NDgxXX0=
+eyJoaXN0b3J5IjpbMTI3ODEwMTY1XX0=
 -->
